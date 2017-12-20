@@ -1,3 +1,4 @@
 public class KSLineDto
 {
+private int m_startX
 }
