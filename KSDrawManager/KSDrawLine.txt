@@ -1,0 +1,4 @@
+public KSDrawLine
+{
+private int m_startX
+}
